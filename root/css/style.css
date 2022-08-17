@@ -1,0 +1,40 @@
+header {
+    background-color:#E6E6E6 
+}
+
+h1 {
+height: 29.87px;
+color: #005677;
+font-family: 'Times New Roman';
+font-style: normal;
+font-size: 35px;
+line-height: 29.64px;
+background: #C4C4C4;
+height: 60px;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677
+}
+
+.datos-personales {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.fechas {
+    font-weight: bold;
+}
+
+footer {
+    background: #005677;
+    height: 37px;
+}
+
+.pie-de-pagina {
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 16.94px;
+
+}
